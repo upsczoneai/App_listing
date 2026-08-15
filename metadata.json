@@ -1,0 +1,6 @@
+{
+  "name": "UZI WORLD",
+  "description": "Official landing page and app hub for UZI WORLD applications including UPSC ZONE AI, ReadBook, and Uzium on Google Play Store.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
